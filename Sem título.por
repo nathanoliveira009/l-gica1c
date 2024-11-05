@@ -1,16 +1,8 @@
 programa {
   funcao inicio() {
-  
- inteiro numero, dobro
+    
+    real tempo, dist, vel
 
- escreva("Digite um numero inteiro: ")
- leia(numero)
-
- dobro = numero * 2
-
-  escreva("O dobro do número é: ", dobro)
-  
-  }
+    escreva(tempo, \n)
+ }
 }
-
-
